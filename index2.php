@@ -5,7 +5,6 @@
 	<title></title>
 </head>
 <body>
-	hola prueba 2x	
-	<a href="index2.php">ir</a>
+<?php echo "esto es php"; ?>
 </body>
 </html>
